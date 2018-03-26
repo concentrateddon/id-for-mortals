@@ -1,3 +1,6 @@
 front-matter.txt
 
+you-cant-solve-learning.txt
+part-1-how-we-learn.txt
+
 back-matter.txt

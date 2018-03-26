@@ -1,0 +1,17 @@
+{section: frontmatter, sample: true}
+# Introduction
+I taught my first formal class in 1996, and wrote my first classroom courseware in 1998. I immediately fell in love with teaching, writing, and instructional design. As many people do when they fall in love with something, I started trying to learn everything I could about it. This was before Amazon and E-Z online access to Every Book Ever Written, of course, but I tried not to let that stop me.
+
+Sadly, I encountered a lot of hurdles. Most of what I was able to dig up at the library and bookshops was extremely academic, and frankly hard (and boring) to read. It required a lot of instructional design background that I, having never even attended college, didn't have and didn't have the patience to acquire. The few books I did find that were written for a non-academic audience were _so_ incredibly condescending in tone, I couldn't make it through more than a few pages at a time. "So you want to learn about instructional design? Well, good for you! It is a very challenging yet rewarding topic, and you are making a good first step on what will be a wonderful journey!" Blurgh.
+
+I tried not to let it deter me. I devoured what I could find on cognitive science, instructional design, and more. I learned to gleefully differentiate between _pedagogy_ and _andragogy_,  and eventually learned that nobody cared about the difference, which initially struck me as a problem, and then I got over it. I practiced on my students, and over time refined a set of instructional design guidelines for myself. I shared those in _The Nine Principals of Immediately Effective Instruction_, a book still available for free on my website, DonJones.com. Professionally, I moved into a position that focused heavily on instructional design, and had access to even more guinea pigs and data gathering, and wrote more than a few internal documents on better design and delivery.
+
+This book is the result. It's as plain-English as I can make it, and as outcome-oriented as I can manage. It's got plenty of theory, but I back it up with actionable things you can do in your everyday life as someone who shares skills and knowledge. I'm a big fan of checklists, and while this book doesn't really _have_ any checklists per se, it's definitely laid out in a checklist-style fashion. If you've read any of my earlier, less-formally published works, you'll recognize plenty of familiar things, but you'll also see a lot more. Hopefully, you'll find everything to be better organized for a more "what can I actually do" mindset.
+
+I hope you find it helpful.
+
+{sample: true}
+# An Agile Note
+This book is currently being published on Leanpub.com as an "Agile-published" book. That is, it's being sold before it's done. That means you're likely to see some blank sections, more than a few typos, and some questionable grammar. It's OK! If you purchase the book, Leanpub will offer to email you each time an update is available (and they're the only ones who have your email address, I never get it). Once the book is done, it'll go through copyedit, and you'll end up with the complete thing for one price. I bump the minimum price a bit as I go, so the earlier you bought in, the better a deal you got.
+
+Thanks for supporting this project!
