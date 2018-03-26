@@ -2,5 +2,9 @@ front-matter.txt
 
 you-cant-solve-learning.txt
 part-1-how-we-learn.txt
+part-2-telling-a-story.txt
+part-3-nine-tricks-for-learning.txt
+part-4-constructionism.txt
+part-5-nine-learning-killers.txt
 
 back-matter.txt
