@@ -1,6 +1,8 @@
+{sample: true, section: mainmatter}
 # Part 1: How We Learn #
 Understanding how human brains learn is the key to helping them do it better and more easily. In this part, I'll break down some of the yawn-inducing cognitive science into something a bit jazzier and real-world.
 
+{sample: false}
 # Why do We Learn?
 The first thing we need to think about is why human brains learn at all. Plenty of creatures on this planet _don't_ learn; they respond instinctively do specific stimuli, and there's not much you can do to change that. But for creatures that can learn, and can change their behaviors based on what they learn, there's really only a one reason why:
 
@@ -12,6 +14,7 @@ That's why so much instructional design is focused on engaging natural human sur
 
 Of course, learning is a lot more complex than just "let's try to outlive the next guy," but our _ability_ to learn is rooted in that age-old desire to survive.
 
+{sample: false}
 # What is Learning?
 Now we should probably decide what _learning_ even means. A gent named Benjamin Bloom, back in the 1950s, came up with a taxonomy for learning, and it remains a useful way to talk about what learning really is. He defined several different _kinds_ of learning, and ranked them from fairly easy and low level, up to harder and more high level.
 
@@ -41,6 +44,7 @@ Moving through to analysis gets tough. Analysis takes a kind of leap, and it oft
 
 So for better or for worse, most educators tend to aim for application-level learning: knowing facts, understanding them, and being able to apply them in the real world. It's the nature of our brains that make those the low-hanging fruit of education. My point here is that you need to know where you're aiming, instructionally, in order to get there; if you do indeed have a goal of moving someone into those higher three cognitive levels, you need to aim very hard, and very carefully, because they're difficult targets to hit.
 
+{sample: false}
 # Making Memories
 The basis of all learning is, of course, _memory_, which is why Remembering sits at the base of Bloom's Taxonomy. So how do memories actually get made in the human brain?
 
@@ -73,6 +77,7 @@ Familiar analogies are another way to break the filter. When you start with what
 
 The point here is that, for adult learners, _you need to clearly make the incoming information relevant to them_ or their filter will just try to block it all out. We'll look at several techniques for doing so, but keep in mind that the whole reason behind it all is to get that filter's permission to start creating new memories.
 
+{sample: false}
 # Memory to Application
 So how does the brain move from mere memorization through comprehension and into application, and how can we as instructional designers assist it on that journey?
 
