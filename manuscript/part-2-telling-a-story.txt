@@ -1,1 +1,4 @@
+{sample: true}
 # Part 2: Telling a Story #
+Our brains are _story makers_. We try to fit everything we learn into the larger pattern and narrative of our lives, and so one of the best ways to help our brains learn more easily is to provide a ready-made story. There's a real art to this, and it's perhaps the most important Part of this book.
+

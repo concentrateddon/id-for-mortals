@@ -1,1 +1,4 @@
+{sample: true}
 # Part 3: Nine Tricks for Learning #
+Humans have some interesting built-in behaviors that you can judiciously exploit to help them learn. These come with some pretty heavy-duty caveats, which we'll also explore, but used in the right place and in the right measure, these are invaluable instructional aids.
+

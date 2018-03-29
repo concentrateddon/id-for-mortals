@@ -1,1 +1,3 @@
+{sample: true}
 # Part 5: Nine Learning Killers #
+There's a lot you can do to create a better learning environment and experience, but there's a lot you can do to make them worse, too. In this Part, we'll explore some of the "don'ts" of instructional design, as well as some of the built-in behaviors that can get in the way of learning.

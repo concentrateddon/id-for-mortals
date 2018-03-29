@@ -1,6 +1,6 @@
 {sample: true, section: mainmatter}
 # Part 1: How We Learn #
-Understanding how human brains learn is the key to helping them do it better and more easily. In this part, I'll break down some of the yawn-inducing cognitive science into something a bit jazzier and real-world.
+Understanding how human brains learn is the key to helping them do it better and more easily. In this part, I'll break down some of the yawn-inducing cognitive science into something a bit jazzier and real-world. Much of this chapter's information is draw from [_How We Learn: The Surprising Truth About When, Where, and Why It Happens_](https://www.amazon.com/How-We-Learn-Surprising-Happens/dp/0812984293/ref=sr_1_1?s=books&ie=UTF8&qid=1522363583&sr=1-1&keywords=how+we+learn), a book I heartily comment to anyone interested in exploring the topic further.
 
 {sample: false}
 # Why do We Learn?
@@ -104,6 +104,20 @@ None of this is impossible, but far too often instructional designers set out wi
 And let's be clear: sometimes, remembering _is all you need to achieve_. When I worked on F-14 Tomcat jets, we had a big room filled with manuals on how to put one together. Like, literally hundreds of manuals for every possible part and system on the aircraft. These were mainly step-by-step task lists, and provided you had a basic understanding of how to use the tools involved, you could probably get the job done. You'd never know _why_ that particular kind of bolt was used in that particular spot, and you'd never be able to make any kind of substitutions, but that wasn't the goal. As a mechanic, I didn't _need_ to know, and I wasn't _allowed_ to make any alternate decisions, and so simply _remembering_ the steps involved was sufficient. And, because the manuals were largely designed to remember _for me_, very little teaching was, in theory, required.
 
 My education on F-14s actually _did_ go further. I had plenty of classroom time to learn the theory of operation — the "why" and "when" — of the aircraft. The intent was to take me through comprehension and into some degree of application so that, in theory, I could work on a battle-damaged aircraft and make decisions about how to get it in the air quickly, if not optimally. That education took _time_, though. Four years of it, to be precise; if all the Navy had wanted was a monkey to put the planes together, they probably could have accomplished that in four months or less. Every step of the cognitive ladder takes an exponentially longer amount of time to accomplish.
+
+{sample: false}
+# Takeaways
+Here, in convenient bullet-list form, are some of the main things I hope you picked up from this Part:
+
+* Memory is the foundation of learning, but it isn't the whole of it.
+* Memories can be reinforced through repetition, but they're _best_ and most strongly enforced through _use_. 
+* Comprehending something means you can explain it to someone else, in your own words.
+* Applying something means you also know _when_ and _why_ to apply it, not just _how_. 
+* You can only teach so much in a day, and teaching to apply takes a lot of time.
+* Adults have a lot of "learning filters," so before you can teach, you first need to create a strong case for why what you're teaching is applicable to them.
+* One good way to get adults "on your side" in learning is to create a story that puts them in the central role, and that takes them on a journey.
+
+That last bullet is what we'll dive into next.
 
 
 
