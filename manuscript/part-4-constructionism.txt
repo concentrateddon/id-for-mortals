@@ -20,16 +20,71 @@ You also need to be very careful about matching tasks and the learners' cognitiv
 
 Constructionism also insists that learners have time to reflect on what they've learned, and I've found that friendly, open discussions are a good way to do that. "So, did anyone try anything that they definitely wouldn't try again?" "Did anyone do something and then later decide doing it in a different order would have been better?" Turn learners into teachers, and get them to not only explain the problem, but explain how they solved it, and what did and didn't work.
 
-Finally, you ideally want to give students a slightly different context in which to _use the same skills they just developed_. Perhaps they now need to change a bicycle tire, or a motorcycle tire, or a truck tire, or a wheelbarrow tire. They'll need some of the same stuff that they used on the car, but they'll also need different stuff for each new scenario. This process reinforces the core things they're learning, and helps them construct a larger worldview, which is a key step on moving them toward synthesis and evaluation. _Variations on a theme_ let the brain strengthen core memories through repeated recall and use, while letting it expand the network of neurons that hold each memory, creating a new and bigger story for itself. 
+Finally, you ideally want to give students a slightly different context in which to use the same skills they just developed. Perhaps they now need to change a bicycle tire, or a motorcycle tire, or a truck tire, or a wheelbarrow tire. They'll need some of the same stuff that they used on the car, but they'll also need different stuff for each new scenario. This process reinforces the core things they're learning, and helps them construct a larger worldview, which is a key step on moving them toward synthesis and evaluation. Variations on a theme let the brain strengthen core memories through repeated recall and use, while letting it expand the network of neurons that hold each memory, creating a new and bigger story for itself. 
  
- {sample: false}
- # Adult-Related Pitfalls of Constructionism
+{sample: false}
+# Adult-Related Pitfalls of Constructionism
+One of the reasons constructionism works is that it leverages two of the most deeply embedded portions of our brains, with regard to learning. First, it gives us a _practical goal_ to work toward. It puts us into a situation, and our brains work best in concrete situations, rather than in abstract concepts. Second, constructionism _lets us fail_. We learn the very, very best when we can try something, fail, and then work our way through the failure to the successful outcome of whatever we're doing. Everything we try, and fail at, contributes to a more-complete mental map of whatever topic we're learning. Failure is perhaps the most crucial aspect of constructionism, and it's why you need facilitators rather than teachers: learners need the time and space to fail.
+
+This works fairly well for kids, who have fewer preconceived notions of what learning "should" look like, are less inclined to fear failure, and who are more likely to be in a formal learning environment where the amount of time they spend learning is externally controlled, and not a personal concern. With adults, it's the exact opposite. We already have a notion of what learning "looks like," and constructionism usually ain't it. We're used to the day-to-day pressures that time places on all of our activities, and so constructionism-based learning seems like a waste of time. We get frustrated, asking the facilitator why they "can't just tell me what the answer is?" Finally, and most importantly, the one thing constructionism absolutely relies on — failure — is the one thing adults try to avoid with three times more vigor than they try to succeed.
+
+Making adults successful with constructionism requires, in my experience, a more moderated and guided approach. You can still "do" constructionism, you just have to do it carefully. You almost have to let it sneak up on your adult learners. I call my approach _MicroConstructionism_. 
+ 
+{sample: false}
+# MicroConstructionism
+I want to first point out that this isn't the right approach for every situation. While it's laudable to say that you want every learner to achieve application-level learning and beyond, the reality is that you don't always have the time, the right learner audience, or the right tools. Sometimes, various other considerations are going to make you have to compromise and just "train" people to follow a list of steps.
+
+However, when I _can_ engage in higher-level teaching, MicroConstructionism is my choice. 
+
+## Set the Stage
+It starts like this: I get very up-front with my learners about what's going to happen.
+
+> This is not an ordinary class, folks. I'm to just going to stand here and talk at you, and then let you follow some step-by-step lists of tasks and call that a "hands-on lab." In fact, I'm going to talk very little. We're going to work through a series of small, mini-projects together, and you're by and large going to be on your own for each one. At the end, I'm going to do a little critique of your work, and we're going to discuss what we all did the same, or differently. Then we'll move on.
+> 
+> I'm going to make sure you have every tool and reference you could possibly need to be successful. But I won't be holding your hand. You're going to screw up, and you'll probably become stuck at some point. That's literally the point of this. If you're not failing, you're not learning. 
+>
+> I ask that you do only two things consistently through the class: when you do feel completely stuck, ask me for a hint. That's what I'm here for. I may just direct you to a particular reference or tool and see if you can figure it out, but I'm not going to let you flounder forever. But that failing process is really why we're here. And, I ask that you tell me when you think you're done, so that I can offer some suggestions on your work.
+>
+> I realize this isn't how classes have gone for you in the past. I promise, though, that if you stick with this and give it a shot, you're going to come out the other end a lot smarter, and a lot more capable. Now, for anyone who's here just because their boss made them come, and not because they're really passionate about this topic, this might not be a great experience for you. I apologize, and I don't mind at all if you follow along to whatever degree you like, and then work on whatever else you might want to work on. You get to decide how much you take away from this experience, and I'll respect and support your decision.
+>
+> I do ask, though, that you respect the fact that I really do know what I'm doing, here. I'm not interested in teaching you to be a trained monkey who just follows a list of tasks. I can't give you that list for everything you're going to need to do in the real world. But if you play along, you're going to be much better equipped to really do this, on your own, in the real world.
+
+It's a big intro, and I try to keep at as frank and transparent as possible. Folks who just want to go through the motions can occupy themselves however they like. 
+
+## Start Small
+A lot of adults - more than you might realize - immediate get a little fearful, so you might wonder why I put them so on the spot on that intro. That intro is for the folks who weren't there to learn, but who were just there to get some time away from the job. I wanted to let them know up front that I'm not going to cater to them by "training" them when I'd rather be _teaching_ them.
+
+To swiftly allay everyone's fears, I immediately launch the class into the first, tiniest project I can possibly come up with. It'll require the least introduction possible, the least tools, and the least reference materials. It should be something almost any of them could do with minimal learning, but not so simple that any of them could complete it immediately with zero work. They need to feel like they've put _some_ investment into it, but still get an almost-immediate reward. That first project should lead into the next one, but shouldn't take more than 30 minutes. I monitor the learners closely, because this is my first opportunity to gauge them. If I plan 30 minutes and they all finish in 10, then I've got a good idea how the rest of the class will go. If none of them finish in 30, then I know I've got a level-setting problem, and I may need to adjust how much I'm able to cover in the rest of the class.
+
+_Change the tire on this car_ is the level of project you're looking at for the first one. You might need to read a bit of the car manual to learn how, and you'll need some minimal tools, but you should be able to finish within half an hour. This isn't a true constructionism task, because you're not giving your learners an _outcome_ like "make the care drivable," but the goal is to ease into constructionism with a small step that demonstrates to your learners that they can manage this.
+
+## Structured Sequences
+Many learners, especially adults, will go into a kind of brain-lock if you give them a large, outcome-based project goal right at the outset. "Make a car!" is just too much; even, "make this car drivable" is probably too big a leap at first. Most of us just aren't taught to enjoy taking huge mega-tasks and breaking them down.
+
+And so, to keep the learner motivated and engaged, I'll do the "breaking down" for them, at least in the early stages. As we progress, the projects they're given will be progressively higher-level, and they'll get longer to work on each one. The idea is to build confidence in the methodology, create engagement and enthusiasm for the project, and get their brains thinking outside the "training box." 
+
+Some tips:
+
+* I try to have each project be 1.5x to 2x longer than the previous one. So a 30-minute project is followed by a 45-minute to 1-hour one, followed by a 90-minute to 2-hour one, and so on. Sometimes, I'll end up with a couple of one-hours in a row, and that's fine; this is a guideline and goal, not a hard rule.
+* I'll start the class by showing the end result of whatever it is we're building together. It's good for people to have the completed vision in their minds.
+* Each project must logically follow the one that preceded it. In other words, they should build, gradually. If the overall goal is "make the car drivable," step 1 can be to change the tire. Step 2 might be to evaluate the engine. Step 3 might be to change a spark plug, after the evaluation reveals it's bad. Step 4 might be to re-evaluate and replace a leaking hose. 
+
+The idea is to keep them moving, always forward, by building in small steps.
+
+## The Anatomy of a Project
+So for each of these little projects you set your students on, create a consistent structure for them. This helps give students some reliable frameworks in this scary and unreliable world of constructionism. For example:
+
+1. I will show them the expected outcome. In cases where there might be many legitimate variations, I'll take care to point out that what I'm showing is only one possible outcome. I'll even review what some of the variations might be.
+2. I'll introduce them to any new reference materials that they'll be using in the project, and spend some time discussing how the reference is organized and used.
+3. I'll introduce any new tools, along with references on how to use those tools.
+4. I'll carefully outline what's expected in this project. _Scope_ is an important thing to get right, because students need to be able to know when they're done, and when they're not. So the project goal needs to be something that anyone can objectively measure and verify.
+5. I'll set them loose.
+6. As they work, I try to answer questions not with a direct answer, but by asking them where in the references they might look to find the answer. I'm always encouraging them to self-learn; if they get stuck with the reference material, I'll help with that. Otherwise, I'm more likely to answer their questions with other questions, to try and get them to think about how to solve the problem on their own.
+7. When we finish, I always try to review everyone's work, discuss what different people did differently and why, and discuss any variations in the outcome they may have discovered.
+
+When learners are working together in pairs or small groups, I always mix them up after a project. This provides better cross-pollination of ideas, and helps keep one group from becoming a marked under- or over-performer. I'm always very hesitant to use groups or even pairs, because it's too say for one strong personality to "take over" and diminish the fail-to-learn experience for everyone else. Mixing them up helps to mitigate that, and I also am careful to observe group dynamics and identify any strong personalities. Those folks get moved around more frequently so that everyone is forced to fail-to-learn.
  
  
- {sample: false}
- # MicroConstructionism
- 
- 
-  [^anofese]: Sabelli, N. (2008). Constructionism: [A New Opportunity for Elementary Science Education](http://nsf.gov/awardsearch/showAward.do?AwardNumber=8751190). DRL Division of Research on Learning in Formal and Informal Settings. pp. 193-206. Retrieved September 20, 2017.
- [^pains]: Papert, S.; Harel, I (1991). ["Constructionism"](http://www.papert.org/articles/SituatingConstructionism.html). Ablex Publishing Corporation: 193–206. Retrieved September 20, 2017.
+  [^anofese]: Sabelli, N. (2008). Constructionism: [A New Opportunity for Elementary Science Education](http://nsf.gov/awardsearch/showAward.do?AwardNumber=8751190). DRL Division of Research on Learning in Formal and Informal Settings. pp. 193-206. 
+ [^pains]: Papert, S.; Harel, I (1991). ["Constructionism"](http://www.papert.org/articles/SituatingConstructionism.html). Ablex Publishing Corporation: 193–206. 
  [^logo]: [Mindstorms: Children, Computers, and Powerful Ideas](https://en.wikipedia.org/wiki/Mindstorms:_Children,_Computers,_and_Powerful_Ideas)
