@@ -1,4 +1,14 @@
 {sample: true}
-# Part 6: Helpful Design Tools #
-[storyboarding, Post-its]
+# Part 6: How I Design: a Case Study #
+
+
+# Outcomes: Terminal Objectives
+
+# Unwinding Dependencies and Sticky Notes
+
+# Storyboarding, Chunking, and Finding the Arc
+
+# Identifying Concepts and Analogies
+
+# Trial Run
 

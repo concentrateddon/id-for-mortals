@@ -15,3 +15,11 @@ I hope you find it helpful.
 This book is currently being published on Leanpub.com as an "Agile-published" book. That is, it's being sold before it's done. That means you're likely to see some blank sections, more than a few typos, and some questionable grammar. It's OK! If you purchase the book, Leanpub will offer to email you each time an update is available (and they're the only ones who have your email address, I never get it). Once the book is done, it'll go through copyedit, and you'll end up with the complete thing for one price. I bump the minimum price a bit as I go, so the earlier you bought in, the better a deal you got.
 
 Thanks for supporting this project!
+
+{sample: true}
+# Let's Define Instructional Design
+The phrase _instructional design_ has been co-opted by a lot of different stakeholders over the years, so let me just explain how _I_ use the term in this book.
+
+For me, instructional _design_ isn't quite the same as instructional _authoring_, and it's different still from instructional _delivery_. A _designer_ lays out the strategy, and outlines the story that will be told to learners. A designer worries about _how_ people will learn, and what _objectives_ they're going to be taught. You run around on the Internet today, and it's easy to get the impression that a designer is also worried about which stock photos to use on slides, and what kind of Word template to use; for me, that's an _authoring_ job, and it's not something I get into in this book. You'll also see "instructional design" tips like "don't have a boring voice," which for me is very much a _delivery_ problem, and so you won't see much of that in this book, either.
+
+I suppose over time "instructional design" has just gotten applied to a wider range of job roles and I didn't notice. That's fine, of course, but I wanted to be clear where _this_ book is headed, so that you're not disappointed.
