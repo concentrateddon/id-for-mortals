@@ -76,8 +76,11 @@ Students have a limited ability to learn in a fixed period of time. Make sure yo
 # 6. Ignore Outcomes
 (Adult learners are there for a reason, not just to learn; state objectives in terms of observable outcomes not just learning for learning's sake, and build the entire story toward those outcomes)
 
-# 7. 
+# 7. Lose Touch
+(Need to repeatedly assess if your learners are following along, either through formal assessment tools or informal class management, but neither can just be stupid trivia questions. Commit to it.)
 
-# 8. 
+# 8. Train
+(Versus teaching)
 
-# 9. 
+# 9. Prevent Failure
+(Anticipating failure is great, because you can teach to it; don't try to structure learning in a way that avoid it, because that's how we learn).
