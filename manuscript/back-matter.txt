@@ -1,5 +1,17 @@
 {section: backmatter, sample: true}
 # Afterword
+I truly hope this book has offered you some useful perspectives. I personally _love_ thinking and learning about how people learn, and how I can do a better job presenting information and new skills to them. Hopefully, this book has helped you start down a road toward doing the same.
 
 {sample: true}
 # Suggested Reading
+All of these are a bit more scientific and in-depth than what I've attempted here, and some of these serve as my own resources when I'm working on instructional design.
+
+_How We Learn: The Surprising Truth About When, Where, and Why It Happens_ - Benedict Carey
+
+_Instructional Design that Soars: Shaping What You Know Into Classes That Inspire_ - Guila Muir
+
+_ISD From The Ground Up: A No-Nonsense Approach to Instructional Design_ - Chuck Hodell
+
+_Make It Stick: The Science of Successful Learning_ - Peter C. Brown, et. al. 
+
+

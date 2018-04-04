@@ -1,0 +1,4 @@
+{sample: true}
+# Part 6: Helpful Design Tools #
+[storyboarding, Post-its]
+
