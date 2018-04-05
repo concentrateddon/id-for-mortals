@@ -33,7 +33,7 @@ Here’s why: human brains can only absorb a certain amount of information in a 
 
 So you must not introduce extraneous information. Teaching isn’t about what you want someone to learn, it’s about what they need to learn in order to absorb the skills that you promised to deliver when you sold them the class, the book, or whatever.
 
-I teach a lot of Microsoft Official Curriculum courses. Microsoft has a lot of challenges when it comes to courseware, not the least of which is the highly variable quality of their certified trainers. In one instance, I was teaching a class that had previously been taught by another guy at the same facility. That man knew this material cold, and a lot more besides. He knew the product inside-out, upside-down, and sideways. He took every minute of the recommended delivery time, and then some, running students from 8:00am to 5:00pm every day, and even shortening lunches sometimes to pull in extra time.
+I teach a lot of Microsoft Official Curriculum courses. Microsoft has a lot of challenges when it comes to courseware, not the least of which is the highly variable quality and approach of their certified trainers. In one instance, I was teaching a class that had previously been taught by another guy at the same facility. That man knew this material cold, and a lot more besides. He knew the product inside-out, upside-down, and sideways. He took every minute of the recommended delivery time, and then some, running students from 8:00am to 5:00pm every day, and even shortening lunches sometimes to pull in extra time.
 
 When I taught the class, we went from 9:00am to 3:00pm, had a full hour for lunch, and my students were measurably better at retaining and applying the skills that the course had promised to teach.
 
@@ -53,7 +53,7 @@ So what about student curiosity? What about the student who is really clever, to
 
 Curiosity is good, and should be encouraged — but not at the expense of the less-curious in class. Instead of going off on a more-detail tangent just to prove that you, as the instructor, really do know this stuff, encourage independent exploration. Build “further reading” references into your instructional materials, and encourage curious students to explore. By doing so, you’ll achieve two goals. First, curious people usually enjoy independent exploration, and by encouraging it you’re encouraging a smarter person. Independent exploration engages a number of higher brain functions, and often helps a student’s brain better cement new knowledge. Second, you’re keeping the rest of the class on-track. Unless you and the curious student can leave the room — something not possible in a book, by the way — you’re putting your tangent in front of everyone. Folks will listen to even a “private” in-class conversation, to be sure they’re not missing something, and now you’re bombarding everyone with extra information. Brain goes into triage mode, class success level goes down.
 
-In books, tangents are often styled as sidebars. They’re often set aside visually in some way, perhaps with a gray background or in a box. Readers are often told to ignore them. The Dummies books (and I did write one of those) label them as something like, “Dumb Stuff You Don’t Need to Know.” Problem is, you can’t stop someone from reading, and they’ll often do so because they fear “missing” something. If they don’t need to know it, don’t put it in the book. Period.
+In books, tangents are often styled as sidebars. They’re often set aside visually in some way, perhaps with a gray background or in a box. Readers are often told to ignore them. The *Dummies* books (and I did write one of those) label them as something like, “Dumb Stuff You Don’t Need to Know.” Problem is, you can’t stop someone from reading, and they’ll often do so because they fear “missing” something. If they don’t need to know it, don’t put it in the book. Period.
 
 Many of the classes I teach include remote students. Early on, I would shut off my microphone during labs, so that I could discuss issues with each student individually. I relied on the full-room microphone in the ceiling to let remote students know I was still in the room. I’d get into “expanded” discussions with a curious student, and the remotes would invariably, to a person, complain that they couldn’t hear me. I wasn’t talking to them, but they were worried they were missing something. Once I realize that I was breaking my own rule of not introducing tangents, I stopped doing the side discussions. Maybe on breaks, or during lunch, outside the classroom, where it’s more clear that the conversation is private, but never in class.
 
@@ -62,19 +62,87 @@ Mick was right: you can’t always get what you want. But if you try sometimes, 
 Students have a limited ability to learn in a fixed period of time. Make sure you're focusing on the most crucial items, and teach only those. You'll help students be more effective when you take on the responsibility of triaging the information.
 
 # 2. Don't Tell a Story
-(No context, no end game, not learner-centric)
+Remember that our brains are designed to construct stories, based largely on causality, to help us learn. _Cause-effect_ is deeply embedded in who we are. A great way to make learning less effective, then, is to forget that. 
+
+This is an example I've touched on before, but it's so common I'll bring it up again. It's _incredibly_ common to see newer instructional designers try to front-load concepts. _Before I can teach you about car maintenance, I need to go into the whole history of the combustion engine, Henry Ford's assembly line concepts, and so on_. Even if you "tell a story" about those things, you're not helping someone achieve the outcome they came for. You're not placing _them_ into the story, because that particular story has no place for the learner. You're not even telling them how all of that prologue material will eventually help them be better at car maintenance.
+
+The dangerous part about this, and the reason it remains a pernicious problem in the world of adult education, is that human brains are _very_ good at learning. You can give someone a horribly designed set of learning materials and in many cases they'll still be able to learn. They might not learn as well, and they might not learn as fast, and they might not retain as much, but we rarely measure those things. So it can _seem_, from the outside, like people can learn equally well no matter how badly you design the experience. That's obviously not true, though.
+
+One reason I think storytelling doesn't get as much respect as it should is that it's just harder. Take nearly any topic that an adult might want to learner and it's simply easier to create an outline where you lay out some background concepts, and then lob facts at the learners until their eyes bleed. Break for lunch, repeat. Issue a certificate, class complete. It's _easy_. Building a story is _hard_. Building a story requires you to triage what you're going to teach, because the nature of storytelling limits how much you can do. Those are _good_ limits, because they reflect they very real biological limits of our brains, but _not_ storytelling is nice because it lets you ignore those limits and just firehose facts at people.
+
+Consider a brainstorming session, where you and some other experts are creating a course that will teach people how to frame a wall. During a brainstorming session, it's poor form to say "no;" you just let the ideas come and try to capture them all. So you might get a list like this:
+
+* Compressive strength of wood
+* Torsion strength of wood
+* Building codes regarding stud spacing
+* Wall top and bottom plate attachment
+* Calculating nail type for a given load
+* How to operate a pneumatic nail gun
+* How to toe-nail a stud into a floor plate
+* Building code requirements for fire breaks
+* Maximum wall span for load-bearing walls
+
+And so on. That's great, and you could absolutely build a table of contents from all that. It might look like this:
+
+1. Understanding Loads and Limits
+	1. Compressive strength of wood
+	2. Torsion strength of wood
+	3. Nail pull and shear strength
+2. Understanding Building Codes
+	1. Stud Spacing
+	2. Fire Breaks
+	3. Wall span lengths
+3. Building Techniques
+	1. Using nail guns
+	2. Toe-nailing techniques
+	3. Wall and top plate attachment
+
+For a _reference book_, that might be a great table of contents. References aren't designed to _teach_, they're designed to help you _remember things_, and those things are usually facts and figured. References are a good and necessary thing in many fields. But they don't _teach_. 
+
+If my outcome, my end goal, is to learn to frame a wall, where does "compressive strength of wood" come into my story? It probably doesn't. I'm not looking to engineer new building codes. Go out into the world and look at homes being built. The people framing the walls pretty demonstrably are not concerned about torsion and compression. Building codes? Absolutely, they probably have them memorized. But _is that where they started_ when they learned to frame a wall? Does memorizing building codes make a sensible start to my story? Probably not. And this is why so many instructional designers eschew storytelling. It's harder.
+
+I'd probably start the story with a brief mention of what walls are designed to do, like supporting a roof and separating rooms. I might show how a single horizontal piece of wood, with enough weight applied to the middle, cracks in half. That's a _problem_, I'd point out, and then I'd introduce vertical studs as the solution to that problem. We'd put a couple of studs into a long span and show how, with enough weight, the top horizontal span still breaks. A _problem_. I'd ask my learners to consider a solution, and they'd doubtlessly arrive at "more studs, spaced closer together." I'd introduce the building codes that mandate studs be 16" on center, and go through an exercise of measuring out 16" intervals on a floor plate. I'd point out that the floor plate was pretty apt to slip and slide all over. A _problem_. So we'd discuss properly attaching it to the base, and that would lead naturally to the discussion on toe-nailing the studs in place. Of course, we'd need to use the nail gun for that, and I'd start by nailing a mannequin hand into a piece of wood. Well, that's a problem — what if that'd been _your_ hand? On to proper use of a nail gun, and then back to toe nailing.
+
+All of these things fit into the story. They make sense; they're all needed to achieve the terminal objective of "frame a wall." But I've left stuff out. I don't need to teach about wood loads and such; building codes do that for me, and make it unnecessary for a practitioner to know or care. Only the things that lie I the direct path from my learner's starting point ("I don't know how to frame a wall") to their end point ("I know how to frame a wall") get covered. Anything else is a tangent, and doesn't belong in my story. Everything in my story is _relevant_ to my learner, and I've made that clear by introducing them to the problems that each of these things was meant to solve. I've made it _personal_. I've also made it hands-on, which helps develop stronger synaptic connections much faster, so I'll be a lot more confident in my learners' ability to recall these things. And, knowing me, I actually let them _look up_ things like stud spacing and nail gun safety from references I provides, so they've constructed their own personal mental model of how to remember these things, along with learning how to use those important references in the future.
+
+That's how you design for people when you want them to really learn.
 
 # 3. Forget to Level-Set
-(Set expectations and find common ground to begin with)
+When instructional designers talk about storytelling, one thing that often comes up is a phase like, "know who your learner is at the beginning of the story, and carefully define who they will be at its end." Most of us are okay at the second part: it's easy to list the real-world tasks that we want someone to learn to accomplish, for example, and those become our learning experiences' _terminal objectives_. That's _terminal_ as in, _end_; it's the end goal for the course.
+
+But not everyone is so good at the first part, where we define who our learners are _before_ the story begins. What have they already learned to do in life, that would be relevant to our story? What problems are they facing that have brought them to us to learn? If the terminal objective is a task, _why_ do they want to perform that task? 
+
+These questions tell us a lot about who will be able to learn from what we've got to teach. Let's take framing a wall again: if my learners are 16 year-old kids, I'm going to build a very different story than if they're 30 year-old men and women, right? Those two audiences have very different backgrounds and experiences. I'm going to have to use different analogies to find common ground with those two audiences, and it's likely I wouldn't be as successful if my learning experiences included people from both groups. They might both have the same outcomes in mind, but they're starting in very different places, which means they're going to have different journeys, which means they're going to need different stories.
+
+Learners also deserve to have expectations about where they're going. If an 18 year-old is hoping to get a job in construction, that's very different from a 40 year-old who's looking to do a little do-it-yourself home remodeling. They're going to expect different outcomes from their learning experience, and so I need to start out by understanding that expectation, and being very clear about whether or not the experience I've designed is going to meet that outcome. I also need to be clear about what the story won't cover. "You're going to be learning to frame a wall. Now, I need to point out that this is focused on basic residential framing. Commercial building have whole different sets of rules. We're also not going to be looking at any of the licensing or permitting that might be required, even for a small do-it-yourself project. This is just the basic mechanics of framing. It'll be good for adding an interior partition wall to your house, for example." That helps put everyone on the same page with what they'll truly be able to _do_ when they're finished with me.
+
+This doesn't mean you need to fill your introduction with disclaimers; you're not trying to "cover your ass" or anything. But you do need to make sure you're giving an accurate description of what an expected outcome would be, and make sure you're clearly stating where you expect your learners to be starting. "I'm assuming you're already skilled with basic hand tools like hammers, and that you know how to use basic personal protective equipment like gloves and safety glasses. I'm also assuming you're mainly into this for home DIY projects, not for something larger or something commercial." 
+
+Just get everyone on the same page _up front_, both with where you're starting, and where you're going.
 
 # 4. Wreck the Delivery
-(ID doesn't always control this, but you can heavily influence it)
+I wrote in the front of this book that I regard instructional design, authoring, and delivery to be distinct things, and that I wasn't going to touch on delivery much. _Much_. 
+
+The reality is that instructional delivery is where the rubber meets the figurative road, and the best way to kill a well-designed course is to let a poor instructor deliver it. So it's worth thinking, _as a designer_, about how to build learning experiences that easily lend themselves to a good delivery, while requiring an effort to botch the delivery. It's not absolute and it's not foolproof, but it can make all the difference in "borderline" situations. A bad delivery isn't necessarily the designer's fault, but a good designer can do a lot to mitigate a bad delivery.
+
+First, sequencing your material into a well thought-out storyline is the best defense against a bad delivery. With a tight enough storyline, you make it difficult to teach things out-of-order without it not being really apparently awkward. Provide delivery notes that _really_ discourage instructors from going off on tangents. Plenty will want to do so, in part because it makes them feel like they're "adding value" to the course rather than just reciting it, and because it lets them demonstrate their expertise. You can't stop that desire, but you can manage it. Try to anticipate the tangents you can, and provide an explicit place for them. Perhaps that's at the end of the learning experience, or perhaps it's in "sidebars" that you position at the end of a learning session. Yes, I've already discussed how I generally dislike sidebars, but we're talking about compromise, here. By positioning "sidebars" at the end of a session, you can at least exercise some control over it. You can call them out as what they are, indicate that it's "above and beyond" information, and help students understand that it's okay to mentally check out of they need to. Encourage instructors to use those sidebar times as the place to show off and add value, and to work with their higher-performing learners to expand their horizons.
+
+Well-designed _instruction aids_ can also be useful. For example, providing leading questions that can help an instructor engage their class can keep the environment more engaging and interactive. Providing practical experiences, such as hands-on activities, can be useful, and even more so when they're built in a constructionism style that relies on the instructor to be a facilitator. 
+
+Remember, too, that the point of constructionism is largely to take instructors out of the picture and make learners into self-instructors. You'll need to _sell_ your instructors on that concept, in most cases, by making a clear case for constructionism and outlining concrete activities and tasks for the instructors to take on. Provide "to-do" lists for instructors, such as having them introduce reference materials or tools at specific points, encourage the use of those at other points, and so on. Continually exhort instructors to give learners the space and time they need to fail and recover on their own. Provide pre-made tips that instructors can relay to learners, for those "I'm stuck" situations that you can anticipate. Providing slide decks, while technically outside the realm of an instructional designer as I've define it, is another way to exercise more control of the delivery experience, minimize unnecessary distractions, and so on.
+
+Another trick — again, because few instructors want to be seen as merely "reading from the book" like a vocalizing monkey — is to provide separate instructor materials that include additional analogies, examples, and sub-stories that students themselves don't receive directly. This allows instructors to "add value" in a way that stays entirely within your overall story arc and instructional framework.
+
+While an instructional designer, again within my limited definition of the role, might not be the one delivering what they design, they _can_ help ensure a better delivery by _also designing the delivery itself_. Understanding how instructors approach learning experiences, accommodating _their_ needs (just as you do the learners'), and providing a story _for them_ is a great way to make a learning experience that ultimately delivers a better win for the people it's meant to benefit the most.
 
 # 5. Leave Objectives Unstated
 (Objectives create agreement, and give you a goal to constantly refer back to; techniques like practice and repetition should focus on delivering only the objectives)
 
-# 6. Ignore Outcomes
-(Adult learners are there for a reason, not just to learn; state objectives in terms of observable outcomes not just learning for learning's sake, and build the entire story toward those outcomes)
+I got into this a bit in number 3, above, but I want to go into this idea of terminal objectives a bit more specifically, and with a broader reason in mind.
+
+
+
+# 6. 
 
 # 7. Lose Touch
 (Need to repeatedly assess if your learners are following along, either through formal assessment tools or informal class management, but neither can just be stupid trivia questions. Commit to it.)
