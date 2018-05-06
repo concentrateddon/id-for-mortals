@@ -6,6 +6,6 @@ part-2-telling-a-story.txt
 part-3-nine-tricks-for-learning.txt
 part-4-constructionism.txt
 part-5-nine-learning-killers.txt
-Part-6-helpful-design-tools.txt
+part-6-helpful-design-tools.txt
 
 back-matter.txt

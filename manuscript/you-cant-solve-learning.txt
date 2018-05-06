@@ -18,4 +18,4 @@ The problem with this is that _learning takes time_, which is something not all 
 
 And that's what instructional design is all about. It's about understanding the basic cognitive science in how our brains learn, and using that to construct the most efficient learning process _that will still create learning_. It's about understanding the limits of the human brain's ability to effectively absorb new information, and the tricks you can use to make the brain _want_ that information. It's about how to get the brain to take new, abstract knowledge, and turn that into practical, real-world application. 
 
-And all of *that* is what this *book* is all about.
+And all of *that* is what this book is all about.

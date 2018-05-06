@@ -5,8 +5,6 @@ Humans have some interesting built-in behaviors that you can judiciously exploit
 # 1. Lather, Rinse, Repeat
 Repetition is important… but only when it’s the student that’s doing the repetition.
 
-
-
 Anyone who’s been to a Disney park can tell you how well repetition works. It’s a small world after all, it’s a small world after all…
 
 Instructors and instructional designers have long known about the value of repetition. Keep telling someone something and eventually they’ll remember it. The concept is put to good use with primary education in K-12, and even in college: students take notes (repetition), do homework (repetition), and recite facts on demand (repetition, repetition, repetition).
