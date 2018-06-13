@@ -1,16 +1,91 @@
 {sample: true}
 # Part 6: How I Design: a Case Study #
+I thought it might be useful to include a chapter, which I'll try to make as concise as possible, on how I actually apply my instructional design approach. Although my own background is in information technology, I'll use a more generic example here, in hopes that'll be more broadly applicable. That said, I don't like to use artificial, dumbed-down examples because you tend to miss a lot of real-world nuance with those.
 
+With all that in mind, let's say I needed to teach someone how to build a framed, insulated, non-load-bearing interior wall. We've all seen a wall before, and we probably all have an idea of what goes into one (studs, nails, insulation, and drywall, mainly). Wall construction is governed by building codes, so there are some background rules and concepts that we need to consider, which I think makes this a pretty decent example.
 
 # Outcomes: Terminal Objectives
+My first pass at terminal objectives is usually pretty easy:
 
-# Unwinding Dependencies and Sticky Notes
+> Build an interior, non-load bearing, insulated wall.
+
+The objective has some obvious built-in limits on scope: we're not building an exterior wall, we are adding insulation, and we're not building a load-bearing wall. Right there, the learner is learning something: there are many different types of wall, and I'm only going to learn to build one kind. I'd probably go a step further and add just a minor detail:
+
+> Build a code-compliant, interior, non-load bearing, insulated wall.
+
+This emphasizes my desire to teach someone _the right way_ to perform the task, and teaches the learner that there are also _wrong ways_, which I might not be covering. Importantly, this restated objective is *observable*, meaning an informed third party could look at the learner's behaviors and work product and objectively determine if they were able to perform the terminal objective. The objective is based on a real-world verb, _build_; you can see someone build something, and you can test what they've built to see if it was done correctly. 
+
+This "feels" like an objective that I can teach in a reasonable period of time. "Build a house" would be too much, right? That would include so many different systems — plumbing, electrical, roofing, flooring, and more — that we'd spend months at it. "Build a wall," however, has the feel of something that we could probably get through in about an hour, which is kind of my starting point for scoping a topic.
+
+# Unwinding Dependencies and Prerequisites
+Now that hard part begins. I use a kind of "freeform" approach to understanding what I need to teach. Because I'm working with a physical outcome — a wall — I might actually _look_ at one to start figuring out what I need to teach. 
+
+First, I am _not_ going to teach the building code *per se*. My objective isn't, "understanding building code," it's "build a wall." I'm going to teach someone to build a wall _in a way that complies with code_, and along the way I will probably mention specific bits that have to be done "in order to be compliant with code," but I'm not going to sit down at the beginning of my learning experience and go over the code itself. Building codes are background concepts, in a way, and I don't like to make learners simply memorize concepts up-front. Instead, I'll weave the building codes into the narrative, remaining focused on _what_ we're trying to accomplish.
+
+As I start thinking about the things I need to teach, I'll usually use sticky notes, stuck to a wall or whiteboard. This is helpful because I like to reorder them as I think about the order in which I'll teach them. I'll organize them into columns for major subjects, and then each column will represent the order in which I need to teach things. If you've got a big enough table, you could use index cards, and I'm sure the are electronic equivalents (for the record, I don't like using Kanban tools like Trello for this exercise, although I think that's simply because I _like_ moving physical slips of paper around when I'm doing this).
+
+B> For the photos in this book, I used the macOS "Stickies" application, just to give you an idea of how this might look while keeping the screen shot easier to make out.
+
+As I stare at a wall, I start thinking of tasks like:
+
+* Measuring and cutting wood
+* Laying out the studs
+* Affixing the sill (bottom) plate to the structure
+* Affixing the top plate
+* Toe-nailing the upright studs to the plates
+* Nailing horizontal breaks between studs
+* Inserting the insulation badding
+* Screwing drywall into the studs
+
+![Starting my sticky notes](images/6-1.png)
+
+These just get written on notes or cards, in no particular order. As I think about some of those, from my perspective as an expert wall builder, I realize I'm missing some bits. Before you can hang drywall, for example, you need to attach cardboard shims to the studs, to help even out irregularities and provide a flat surface for the drywall to attach to. So I'll add a card for that.
+
+I also want to add some notes to indicate where I should discuss code specifics. For example, code has rules for stud spacing, toe-nailing guidelines, horizontal break placement, and so on. I'll actually make notes on those cards, so that I remember to bring the code requirements in at the right time.
+
+![Expanding my notes](images/6-2.png)
+
+Notice that all of my notes, at this point, are _tasks_. I consider these to be _enabling objectives_. By themselves, none of them are real useful in terms of outcomes — being able to lay out studs is, by itself, not something you'd get hired for. But each of them is still an observable, objective activity. Yes, along the way some of those activities include helping the learner _understand_ something, such as helping the learner understand that studs have to be spaced 16" on center, and what that means. But learning that background information _is part of learning the task;_ I'm not teaching about stud spacing, I'm teaching someone how to properly lay out a wall.
+
+I'm not worried about what _order_ any of this is going to go in, yet; I'm just trying to make sure I'm capturing everything. One way to do that is to look at each task and think, "what would someone need to know in order to do this?" If there is something, then I need to decide if I'll teach that, or if I'll make it a prerequisite that learners are expect to know coming in.
+
+For example, consider "measure and cut wood." You're going to need to know how to use a saw, probably a mitre saw. I think that's probably out of scope for my current teaching plan, because using a mitre saw is applicable across a wide range of tasks besides wall-building. Therefore, I'll document that as a prerequisite. Insulation will likely need to be cut; that just involves scissors, which should be basic human knowledge, so I won't bother documenting that or teaching it. Toe-nailing kind of assumes you know how to use a claw hammer at least, and in reality probably assumes you know how to use a pneumatic framing nailer. Hmm. Framing nailers and wall-building are pretty tightly coupled, so I'll include some quick nailer instruction by adding a new card. There are some safety practices I need to include, so I'll note that on the card.
+
+![Adding dependencies and prerequisites](images/6-3.png)
+
+I'll continue running through the list, making sure each card's dependencies are either covered by another card, or documented as a prerequisite that I can later communicate to learners before they dive in with me.
 
 # Storyboarding, Chunking, and Finding the Arc
+Now that I've got a solid idea of _what_ I need to teach, I need to start figuring out the sequence. Sequencing is only the first step, but it's an important one. I don't ever want to tell a learner "I'll get to that later;" I don't even want to _mention_ stuff until I'm ready to go into it fully. 
+
+I'll try to sequence things in the order a practitioner would actually experience them. Cut the wood, get the sill plate down, lay out the studs, nail the studs, and so on. I'll stick notes to each other where I want to start grouping them, like covering nailers and toe-nailing as part of laying out the studs.
+
+![Beginning the sequence](images/6-4.png)
+
+This list serves as a kind of storyboard, like you might create when scripting a movie. Each note represents a "scene" in the movie, where we'll experience a specific thing. Each thing leads pretty naturally to the next thing. As you can see, I've got a couple of logical chunks, including a possible chunk where we'll shim and hang the drywall. 
+
+Now it's time to find the storyline, or _story arc_. You see, I can't just toss a learner into this — I need to give them something personal to connect to. Are they framing in an entirely new building, or are they just dividing up a large space in their basement into a couple of rooms? The former scenario might require me to go back and cover additional material for that bigger situation; the latter might require me to add more in the way of tool safety and practices, since I could expect the do-it-yourself homeowner to have less experience in that area.
+
+The story arc also provides some specific color for each sticky note. For example, if we're indeed standing up a partition wall in the basement, I might need to discuss how to attach the sill plate to a concrete slab, although for completeness' sake I might also discuss (if not demonstrate) the differences in attaching the sill plate to a wooden subfloor. Thinking about the story helps provide some fine detail, which I'll also note on my cards.
+
+![Finding the story](images/6-5.png)
+
+Knowing the story, and the intended audience, also helps me develop out the analogies I'll use to explain concepts.
 
 # Identifying Concepts and Analogies
+I've already identified, on my sticky notes, some of the core concepts I'll need to teach, like the applicable building codes. But there are probably more, and I need to specifically note them (I use [square brackets] to do that). For example, sill plates provide an important function in a wall: they keep the wall from moving, and they form a connection to the existing structure. That's something I need to explain, so that as learners are attaching sill plates, they'll do so in a way that supports those functions.
+
+Stud spacing is more than just a code requirement; the code exists for a *reason*. Stud spacing is calculated to provide the proper level of stiffness in the wall, and to support common overhead loads. Insulating badding is based on stud spacing, so getting the spacing right will make insulation installation easier later on. 
+
+![Identifying concepts to teach](images/6-6.png)
+
+Identifying all of these concepts, and adding them to the cards, helps me make sure I'm getting all the "background information" I need, and that I'm "attaching" it to the tasks it best belongs with. This is also where I need to start thinking about my analogies, which I'll use to explain these concepts. This is where I'll often start writing, switching from "instructional design" mode to "teacher" mode; even if I'm not drafting out complete analogies, I'm at least making some inroads on how I want to explain each concept to my particular learner audience.
 
 # Trial Run
+Of course, I almost never get it right the first time. I'll miss dependencies, realize I've got the sequence not-quite-right, and so on. So a trial run is important. I'll often try to start with a small learner audience, and I'll often use draft or incomplete teaching materials. That kind of means "winging it," which I can do because I'm comfortable as a teacher _as well as_ an instructional designer; in cases where you're just designing and not teaching, you'll need to collaborate with your "test teacher" to get the minimally viable learning materials in place to do a test run.
 
-# Test and Adjust
+Remember, a test run isn't a test of your teaching materials, it's a test of your _structure_. Learner questions will help you uncover things you may have missed, or sequences that need to be rearranged. I don't necessarily mean you need to _anticipate_ questions and proactively answer them in your teaching materials, but if your story isn't eventually answering common learner questions, then you need to find an appropriate place in the story for those answers.
 
+I keep my sticky notes until I'm done with my test run, because rearranging is an opportunity to really screw things up if you're not careful. Having the original notes in place lets me look at the complete story arc in one "view," so to speak, so I'm less likely to mess something up by simply tweaking one thing. Instead, I continue to view the whole course as a whole structure.
+
+Instructional design should be a living thing; there's always room to tweak and adjust your story after you've told it a few times. You might decide to tighten up a certain area that's not adding as much value as you'd originally thought; you might decide to expand a certain area that was too terse and was confusing learners. 
