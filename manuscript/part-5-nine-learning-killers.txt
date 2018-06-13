@@ -61,6 +61,7 @@ Mick was right: you can’t always get what you want. But if you try sometimes, 
 
 Students have a limited ability to learn in a fixed period of time. Make sure you're focusing on the most crucial items, and teach only those. You'll help students be more effective when you take on the responsibility of triaging the information.
 
+{sample: true}
 # 2. Don't Tell a Story
 Remember that our brains are designed to construct stories, based largely on causality, to help us learn. _Cause-effect_ is deeply embedded in who we are. A great way to make learning less effective, then, is to forget that. 
 

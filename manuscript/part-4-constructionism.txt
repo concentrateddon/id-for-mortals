@@ -2,7 +2,7 @@
 # Part 4: Constructionism #
 _Constructionism_ is an instructional design technique that, for me, is incredibly successful in taking learners (including adults) from memorization all the way through to application and beyond. It's a bit of a scary technique for some teachers, and definitely so for some learners, so you have to approach it with a bit of caution. But sometimes the things most worth achieving are the hardest, and so I wanted to dedicate a Part of this book to the topic.
 
-{sample: false}
+{sample: true}
 # A Non-Boring History of Constructionism
 Loosely connected to _experiential learning_, which basically means "learn by doing" if I may be permitted to vastly gloss over the details, constructionism is an approach where learners construct their own mental models to understand the topic at hand. It's a discovery-based kind of learning, albeit a very _guided_ kind of discovery. The teacher serves more as a _facilitator_, guiding the students through a series of carefully constructed discovery experiences. In each, students are essentially given or pointed to the resources they'll need to complete a small project, and then let loose on their own or in very small groups. There's rarely a lecture, unless there are some core concepts or goals that need to be delivered first. There are never step-by-step instructions; the whole point is to create an environment that invites failure-and-recovery, which is how our brains ultimately learn best. 
 

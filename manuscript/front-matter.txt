@@ -11,12 +11,6 @@ This book is the result. It's as plain-English as I can make it, and as outcome-
 I hope you find it helpful.
 
 {sample: true}
-# An Agile Note
-This book is currently being published on Leanpub.com as an "Agile-published" book. That is, it's being sold before it's done. That means you're likely to see some blank sections, more than a few typos, and some questionable grammar. It's OK! If you purchase the book, Leanpub will offer to email you each time an update is available (and they're the only ones who have your email address, I never get it). Once the book is done, it'll go through copyedit, and you'll end up with the complete thing for one price. I bump the minimum price a bit as I go, so the earlier you bought in, the better a deal you got.
-
-Thanks for supporting this project!
-
-{sample: true}
 # Let's Define Instructional Design
 The phrase _instructional design_ has been co-opted by a lot of different stakeholders over the years, so let me just explain how _I_ use the term in this book.
 

@@ -17,6 +17,7 @@ This emphasizes my desire to teach someone _the right way_ to perform the task, 
 
 This "feels" like an objective that I can teach in a reasonable period of time. "Build a house" would be too much, right? That would include so many different systems — plumbing, electrical, roofing, flooring, and more — that we'd spend months at it. "Build a wall," however, has the feel of something that we could probably get through in about an hour, which is kind of my starting point for scoping a topic.
 
+{sample: true}
 # Unwinding Dependencies and Prerequisites
 Now that hard part begins. I use a kind of "freeform" approach to understanding what I need to teach. Because I'm working with a physical outcome — a wall — I might actually _look_ at one to start figuring out what I need to teach. 
 
