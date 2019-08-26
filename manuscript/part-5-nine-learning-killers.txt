@@ -163,10 +163,32 @@ So my guidelines are usually:
 * If you can't do this, you need smaller terminal objectives and/or less background material.
 
 # 7. Lose Touch
-(Need to repeatedly assess if your learners are following along, either through formal assessment tools or informal class management, but neither can just be stupid trivia questions. Commit to it.)
+Don't ignore the need to repeatedly assess if your learners are following along, either through formal assessment tools or informal class management. Just bear in mind that you can't just ask stupid trivia questions. You really have to commit to it.
+
+Here are three excellent ways to lose touch (which you should obviously avoid):
+
+* Ask "are there any questions?" and then just stare and wait. Too many adult learners, in particular, don't like asking questions because they feel it makes them look stupid, or it draws attention to themselves.
+* Ask simple knowledge-level "trivia" questions. These test someone's short-term recall more than their engagement or actual learning and retention.
+* Rely on students to tell you if they feel they're not "getting it." They almost never will.
+
+You want to create materials that ideally have small, application-based "touch points" on a fairly regular basis---about every hour of teaching. _Application-based_ means an opportunity for learners to demonstrate_ what they've learned by _applying_ it to a task of some kind. Hands-on labs are the classic go-to activity for this, but they're not the only method. For example, while most "labs" ask a student to accomplish a task, you can also ask learners to diagnose something that's broken or done incorrectly, giving them a chance to demonstrate their comprehension to that point.
 
 # 8. Train
-(Versus teaching)
+Training is for dogs and dolphins: teaching an animal to perform a repeatable series of actions or behaviors in response to some predetermined stimulus or trigger, like a hand signal or verbal command. The dolphin has no idea why it's jumping through the hoop other than to get a fish. Don't treat humans that way.
+
+_Teaching_ involves the _why_ of a thing. The _when_ and then _when not._ It's never just the _where_ and the _how,_ and very arguably the _why_ and _when_ of a thing is far more important than anything else. Teaching is never just learning a set of steps to do in a particular order; it's knowing what each step does, _why_ it is being done, and how it builds on the previous step and contributes to the next. Teaching is helping someone make informed decisions based on evidence they gather and synthesize in their minds. 
+
+Too often, in my experience, I've encountered adult learners who simply want to be trained. I never enjoy those experiences, because I feel I could just give them a written set of steps and send them home to perform them over and over and over. My existence as a teacher isn't necessary for _training._ "But what if I did it this other way instead?" is something I _want_ to hear learners asking me, because then we can have a discussion about _why_ and _when,_ and then they won't need me once they leave the class.
+
+That's the ultimate goal of a teacher: to not be needed anymore, because your job is done.
 
 # 9. Prevent Failure
-(Anticipating failure is great, because you can teach to it; don't try to structure learning in a way that avoid it, because that's how we learn).
+Anticipating failure is great, because you can teach to it. I love to use failures as a sequencing technique. "Okay, you do this, and then this, and in the following situations you'd also do this third thing."
+
+"But in this _other_ situation," a student might reply, "it breaks!" 
+
+"Beautiful!" I say. "That leads us into the next chapter, where we'll deal with complex situations like the one you brought up."
+
+Humans learn best through failure. True teaching is a guided tour of failures, sequenced in a way that each failure is followed by its solution, which in turn is often followed by another failure. Experiencing the failure is what makes the solution "stick." 
+
+Imagine the hot pan on the stove. A _smart_ parent won't just tell their child not to touch it. A true teaching parent would set the pot temperature high enough to be meaningful, but low enough not to be dangerous, and _then_ tell the kid, "if you touch this, it's going to hurt." And then let 'em try. You've created a _safe failure,_ a true guided tour of an experience so that _the experience itself_ remains intact. You're not preventing failure, you're simply controlling it, and using it as the centerpiece of a powerful teaching experience.
